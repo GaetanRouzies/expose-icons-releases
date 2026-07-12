@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/expose-icons-releases/main/ExposeIcons-1.0.dmg" length="6050651" type="application/octet-stream" sparkle:edSignature="FjcRBH4S39fRse9GfA+d7D/E589eHt7TK8H1n8lQiNTjuzak4eolwuCBkrHViYLBGB10KuCp1oyuMSVZy0BCAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/expose-icons-releases/main/ExposeIcons.dmg" length="6050651" type="application/octet-stream" sparkle:edSignature="FjcRBH4S39fRse9GfA+d7D/E589eHt7TK8H1n8lQiNTjuzak4eolwuCBkrHViYLBGB10KuCp1oyuMSVZy0BCAA=="/>
         </item>
     </channel>
 </rss>
