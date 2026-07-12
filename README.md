@@ -6,7 +6,7 @@ When you disable "Group windows by application", Mission Control strips every ap
 
 ## Download
 
-**[⬇ Download the latest version (DMG)](https://github.com/GaetanRouzies/expose-icons-releases/releases/latest/download/ExposeIcons.dmg)**
+**[⬇ Download the latest version (DMG)](https://raw.githubusercontent.com/GaetanRouzies/expose-icons-releases/latest/ExposeIcons.dmg)**
 
 Free 14-day trial · $11.99 lifetime license · [exposeicons.com](https://exposeicons.com)
 
