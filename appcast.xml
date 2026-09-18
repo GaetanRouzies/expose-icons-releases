@@ -3,12 +3,12 @@
     <channel>
         <title>ExposeIcons</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sun, 12 Jul 2026 15:09:18 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/expose-icons-releases/main/ExposeIcons.dmg" length="6050651" type="application/octet-stream" sparkle:edSignature="FjcRBH4S39fRse9GfA+d7D/E589eHt7TK8H1n8lQiNTjuzak4eolwuCBkrHViYLBGB10KuCp1oyuMSVZy0BCAA=="/>
+            <title>1.0.4</title>
+            <pubDate>Fri, 18 Sep 2026 06:15:35 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/expose-icons-releases/main/ExposeIcons.dmg" length="6117157" type="application/octet-stream" sparkle:edSignature="qZFCyW+A6dk5bwr+3H6NPg8YEYgq07jSei8PiTpBgjWk4D80nkLLyz0rwuyg+/wCBQLMsptVBl9bR428pTD6Bg=="/>
         </item>
     </channel>
 </rss>
